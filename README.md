@@ -2,4 +2,4 @@
 
 Hello world!
 
-I am a starting Android Developer looking to share my work.
+I am a junior Android Developer looking to share my work.
